@@ -28,6 +28,8 @@ def main():
 	offset = repeat((0, 0))
 
 	sound = Sound()
+	sound.add_music('Ask_About_-_Ninina.mp3')
+
 	'''
 	Add whatever soundtrack files you want to the mp3 folder, and then add them to the soundtrack by calling
 
